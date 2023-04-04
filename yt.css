@@ -1,0 +1,33 @@
+.image-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .image-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .image-content h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .image-content p {
+    margin: 10px 0 0;
+    font-size: 16px;
+  }
+  

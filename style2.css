@@ -1,0 +1,82 @@
+.dash {
+
+}
+.dash h2 {
+    position: relative;
+    bottom: 3rem;
+    left: 24rem;
+    color: white;
+}
+.dash img {
+width: 100%;
+height: 450px;
+}
+
+.movie-page {
+display: flex;
+justify-content: space-around;
+margin-top: 3rem;
+}
+.sec img {
+    width: 18%;
+    height: 20%;
+position: relative;
+bottom: 25rem;
+left: 7rem;
+}
+
+.section1 {
+
+}
+ 
+.section-header{
+padding: 1rem;
+color: white;
+margin-bottom: 1rem;
+border-bottom: .1px solid rgb(141, 137, 137);
+
+}
+
+.text {
+    color: rgb(224, 222, 222);
+    font-family: cursive;
+}
+.section2 {
+
+}
+
+.section-header {
+
+}
+
+.list li img {
+border-radius: 50%;
+
+}
+.list li {
+list-style: none;
+color: rgb(202, 197, 197);
+}
+
+.more-cast {
+    background-color: inherit;
+    color: white;
+    margin-top: 2rem;
+    border: none;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.video-gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.scrol a img {
+    gap: 2rem;
+    margin: 2rem;
+}
+button {
+
+}

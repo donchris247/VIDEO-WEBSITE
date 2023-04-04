@@ -1,0 +1,46 @@
+  #search-bare {
+
+    position: absolute;
+   bottom: 29rem;
+    left: 25rem;
+    width: 45%;
+    font-size: .9rem;
+    padding: 10px;
+    outline: none;
+  } 
+
+  #Gobutton{
+    position: absolute;
+    bottom: 29rem;
+    left:63.4rem ;
+    border-radius: 0 5px 5px 0;
+    background-color: #C3C7DA;
+  
+    padding: 11px;
+    cursor: pointer;
+}
+
+#gender {
+  padding-top: .7rem;
+  padding-bottom: .6rem;
+  outline: none;
+  background-color: #C3C7DA;
+  font-size: .9rem;
+  cursor: pointer;
+  border-radius: 5px 0 0 5px;
+  }
+  
+  
+  .drop-down { 
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      bottom: 29rem;
+      left: 20.9rem;
+      
+  } 
+
+  .second-main{
+    margin-top: 9rem;
+    border-bottom: .1px solid rgb(141, 137, 137);
+  }
